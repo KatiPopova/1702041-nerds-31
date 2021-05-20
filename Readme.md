@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Катерина Попова](https://up.htmlacademy.ru/htmlcss/31/user/1702041).
-* Наставник: [Сергей Зубов] (https://htmlacademy.ru/profile/serj).
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj).
 
 ---
 
